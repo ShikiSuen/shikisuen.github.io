@@ -419,7 +419,7 @@ code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: monospace;
+  font-family: menlo, monaco, consolas, monospace;
 }
 body {
   color: #4a4a4a;
@@ -1070,7 +1070,7 @@ a.has-text-grey-lightest:focus {
   font-family: monospace !important;
 }
 .is-family-code {
-  font-family: monospace !important;
+  font-family: menlo, monaco, consolas, monospace !important;
 }
 .is-block {
   display: block !important;
@@ -11186,7 +11186,7 @@ figure.highlight figcaption * {
 }
 figure.highlight figcaption span {
   font-weight: 500;
-  font-family: monospace;
+  font-family: menlo, monaco, consolas, monospace;
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
   margin-right: 0.5em;
