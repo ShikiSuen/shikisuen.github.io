@@ -11415,7 +11415,7 @@ figure.highlight .section {
   min-width: 108px;
 }
 html {
-  -moz-font-feature-settings: "pkna";
-  -webkit-font-feature-settings: "pkna";
-  font-feature-settings: "pkna";
+  -moz-font-feature-settings: "palt";
+  -webkit-font-feature-settings: "palt";
+  font-feature-settings: "palt";
 }
