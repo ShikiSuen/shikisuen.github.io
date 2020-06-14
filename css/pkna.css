@@ -1,0 +1,5 @@
+html {
+	-moz-font-feature-settings: "palt";
+	-webkit-font-feature-settings: "palt";
+	font-feature-settings: "palt";
+}
