@@ -11406,5 +11406,5 @@ figure.highlight .section {
   min-width: 108px;
 }
 column.column-left {
-  max-width: 27%;
+  width: 27%;
 }
