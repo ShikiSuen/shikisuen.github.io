@@ -11406,6 +11406,9 @@ figure.highlight .section {
 .navbar-logo img {
   min-width: 108px;
 }
+column.column-left {
+  max-width: 27%;
+}
 body {
   counter-reset: card;
 }
