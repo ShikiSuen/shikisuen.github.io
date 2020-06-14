@@ -5253,7 +5253,7 @@ fieldset[disabled] .button {
 .content h5,
 .content h6 {
   color: #fcee09;
-  font-weight: 500;
+  font-weight: medium;
   line-height: 1.125;
 }
 .content h1 {
@@ -6220,7 +6220,7 @@ a.tag:hover {
 .title {
   color: #fcee09;
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: bold;
   line-height: 1.125;
 }
 .title strong {
