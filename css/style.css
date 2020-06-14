@@ -10249,9 +10249,6 @@ body {
   min-height: 100%;
   display: flex;
   flex-direction: column;
-  -moz-font-feature-settings: palt;
-  -webkit-font-feature-settings: palt;
-  font-feature-settings: palt;
 }
 body > .section {
   flex-grow: 1;
