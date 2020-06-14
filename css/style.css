@@ -5253,7 +5253,7 @@ fieldset[disabled] .button {
 .content h5,
 .content h6 {
   color: #363636;
-  font-weight: medium;
+  font-weight: 600;
   line-height: 1.125;
 }
 .content h1 {
@@ -6220,7 +6220,7 @@ a.tag:hover {
 .title {
   color: #363636;
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.125;
 }
 .title strong {
@@ -10244,6 +10244,9 @@ html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  -moz-font-feature-settings: "palt";
+  -webkit-font-feature-settings: "palt";
+  font-feature-settings: "palt";
 }
 body {
   min-height: 100%;
