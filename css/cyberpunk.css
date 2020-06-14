@@ -1,3 +1,4 @@
+@import url("https://rsms.me/inter/inter.css");
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
@@ -11395,7 +11396,6 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
 }
-@import url("https://rsms.me/inter/inter.css");
 body {
   counter-reset: card;
 }
