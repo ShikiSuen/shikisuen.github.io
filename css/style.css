@@ -10244,14 +10244,14 @@ html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  -moz-font-feature-settings: "palt";
-  -webkit-font-feature-settings: "palt";
-  font-feature-settings: "palt";
 }
 body {
   min-height: 100%;
   display: flex;
   flex-direction: column;
+  -moz-font-feature-settings: palt;
+  -webkit-font-feature-settings: palt;
+  font-feature-settings: palt;
 }
 body > .section {
   flex-grow: 1;
@@ -10768,15 +10768,19 @@ article.article .content {
 }
 article.article .content h1 {
   font-size: 1.75em;
+  font-weight: 600;
 }
 article.article .content h2 {
   font-size: 1.5em;
+  font-weight: 600;
 }
 article.article .content h3 {
   font-size: 1.25em;
+  font-weight: 500;
 }
 article.article .content h4 {
   font-size: 1.125em;
+  font-weight: 500;
 }
 article.article .content h5 {
   font-size: 1em;
