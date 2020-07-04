@@ -10764,6 +10764,11 @@ article.article .content {
   word-wrap: break-word;
   font-size: 1.1rem;
 }
+article.article .content a img {
+  margin: auto;
+  display: block;
+  max-width: 65%;
+}
 article.article .content h1 {
   font-size: 1.75em;
   font-weight: 600;
